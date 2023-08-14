@@ -1,0 +1,4 @@
+pyvis
+pynput
+selenium
+webdriver-manager
